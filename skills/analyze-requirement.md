@@ -1,3 +1,9 @@
+---
+name: analyze-requirement
+description: 分析需求文档，自动扫描代码库和数据库，生成实现方案
+user-invocable: true
+---
+
 # 需求分析 Skill
 
 分析需求文档，自动扫描代码库和数据库，生成实现方案。
