@@ -1,0 +1,22 @@
+# 数据库配置模板
+# 复制此文件到 D:\winchannel\db-config.local.yml 并填入真实信息
+
+projects:
+  # 项目/分支名称
+  vinda-nacos-dev:
+    host: 192.168.x.x
+    port: 3306
+    database: base_oms
+    username: root
+    password: your_password_here
+
+  ipsen-dev:
+    host: 192.168.x.x
+    port: 3306
+    database: base_oms
+    username: root
+    password: your_password_here
+
+  # 添加更多项目...
+  # another-project:
+  #   host: ...
